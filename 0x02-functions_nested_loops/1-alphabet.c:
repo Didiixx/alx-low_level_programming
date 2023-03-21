@@ -1,0 +1,4 @@
+lphabet.c:12:1: error: implicit declaration of function ‘_putchar’ [-Werror=implicit-function-declaration]
+   12 | _putchar(letter);
+      | ^~~~~~~~
+cc1: all warnings being treated as errors
